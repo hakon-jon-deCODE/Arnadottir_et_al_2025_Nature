@@ -1,6 +1,7 @@
 # Arnadottir et al 2025 Nature
 
 De novo mutation calls for pregnancy loss trios, this is supplementary data for Arnadottir et al 2025 ("Sequence diversity lost in early pregnancy").
+[![DOI](https://zenodo.org/badge/963286491.svg)](https://doi.org/10.5281/zenodo.15183295)
 
 ## Authors
 Gudny A. Arnadottir<sup>1</sup>, 
